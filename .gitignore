@@ -1,9 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/1.props-exam/node_modules
-/2.state-templete/node_modules
-/simple-counter/node_modules
+node_modules
 /.pnp
 .pnp.js
 
